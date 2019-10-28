@@ -1,2 +1,4 @@
-Os tópicos 4 e 5 fazem parte do controle de turmas. Dentro da turma teremos uma lista de alunos, os alunos que estão na
+  Os tópicos 4 e 5 fazem parte do controle de turmas. Dentro da turma teremos uma lista de alunos, os alunos que estão na
 lista da turma terão notas, se for acessar aluno fora do contexto de turma não tem que exibir as notas.
+  
+  Falta controle de turma e os views GLHF.
